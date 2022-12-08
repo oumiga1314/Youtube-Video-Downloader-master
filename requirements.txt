@@ -1,4 +1,4 @@
-certifi==2018.4.16
+certifi==2022.12.7
 Django==1.10.4
 gunicorn==19.6.0
 opbeat==3.5.2
